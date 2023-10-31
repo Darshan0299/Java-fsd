@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-13T10:49:28 IST" name="13OCt test" finished-at="2023-10-13T10:49:38 IST" duration-ms="9848">
+    <groups>
+    </groups>
+    <test started-at="2023-10-13T10:49:28 IST" name="MailBoxTest" finished-at="2023-10-13T10:49:38 IST" duration-ms="9848">
+      <class name="jenkinsproject.Jenkins">
+        <test-method signature="method1()[pri:0, instance:jenkinsproject.Jenkins@e350b40]" started-at="2023-10-13T10:49:28 IST" name="method1" finished-at="2023-10-13T10:49:38 IST" duration-ms="9798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- jenkinsproject.Jenkins -->
+    </test> <!-- MailBoxTest -->
+  </suite> <!-- 13OCt test -->
+</testng-results>
